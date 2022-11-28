@@ -145,7 +145,7 @@ class App extends Component<{}, State> {
         <div
           style={{
             height: "100vh",
-            width: "75vw",
+            width: "25vw",
             position: "relative",
           }}
         >
